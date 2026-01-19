@@ -1,6 +1,4 @@
-# מאפיית הבית — Generative Engine Optimization Map
-
-> A מזון ומאפים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -36,15 +34,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About מאפיית הבית
-מאפיית הבית is a business in the מזון ומאפים industry.
-
-## Target Audience
-ירושלמים, תיירים, חובבי מאפים
-
-## Industry
-מזון ומאפים
-
+## About Business
 ---
 
 # Additional Resources

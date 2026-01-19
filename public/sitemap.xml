@@ -1,45 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://beit-bakery.zappy5.app</loc>
     <lastmod>2026-01-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://beit-bakery.zappy5.app" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://beit-bakery.zappy5.app/en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beit-bakery.zappy5.app" />
+  </url>
+  <url>
+    <loc>https://beit-bakery.zappy5.app/en</loc>
+    <lastmod>2026-01-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://beit-bakery.zappy5.app" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://beit-bakery.zappy5.app/en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beit-bakery.zappy5.app" />
   </url>
   <url>
     <loc>https://beit-bakery.zappy5.app/story</loc>
     <lastmod>2026-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://beit-bakery.zappy5.app/story" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://beit-bakery.zappy5.app/en/story" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beit-bakery.zappy5.app/story" />
+  </url>
+  <url>
+    <loc>https://beit-bakery.zappy5.app/en/story</loc>
+    <lastmod>2026-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://beit-bakery.zappy5.app/story" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://beit-bakery.zappy5.app/en/story" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beit-bakery.zappy5.app/story" />
   </url>
   <url>
     <loc>https://beit-bakery.zappy5.app/highlights</loc>
     <lastmod>2026-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://beit-bakery.zappy5.app/highlights" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://beit-bakery.zappy5.app/en/highlights" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beit-bakery.zappy5.app/highlights" />
+  </url>
+  <url>
+    <loc>https://beit-bakery.zappy5.app/en/highlights</loc>
+    <lastmod>2026-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://beit-bakery.zappy5.app/highlights" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://beit-bakery.zappy5.app/en/highlights" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beit-bakery.zappy5.app/highlights" />
   </url>
   <url>
     <loc>https://beit-bakery.zappy5.app/contact</loc>
     <lastmod>2026-01-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://beit-bakery.zappy5.app/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://beit-bakery.zappy5.app/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beit-bakery.zappy5.app/contact" />
+  </url>
+  <url>
+    <loc>https://beit-bakery.zappy5.app/en/contact</loc>
+    <lastmod>2026-01-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://beit-bakery.zappy5.app/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://beit-bakery.zappy5.app/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beit-bakery.zappy5.app/contact" />
   </url>
   <url>
     <loc>https://beit-bakery.zappy5.app/privacy</loc>
     <lastmod>2026-01-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://beit-bakery.zappy5.app/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://beit-bakery.zappy5.app/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beit-bakery.zappy5.app/privacy" />
+  </url>
+  <url>
+    <loc>https://beit-bakery.zappy5.app/en/privacy</loc>
+    <lastmod>2026-01-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://beit-bakery.zappy5.app/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://beit-bakery.zappy5.app/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beit-bakery.zappy5.app/privacy" />
   </url>
   <url>
     <loc>https://beit-bakery.zappy5.app/terms</loc>
     <lastmod>2026-01-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://beit-bakery.zappy5.app/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://beit-bakery.zappy5.app/en/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beit-bakery.zappy5.app/terms" />
+  </url>
+  <url>
+    <loc>https://beit-bakery.zappy5.app/en/terms</loc>
+    <lastmod>2026-01-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://beit-bakery.zappy5.app/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://beit-bakery.zappy5.app/en/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beit-bakery.zappy5.app/terms" />
   </url>
   <url>
     <loc>https://beit-bakery.zappy5.app/accessibility</loc>
     <lastmod>2026-01-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://beit-bakery.zappy5.app/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://beit-bakery.zappy5.app/en/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beit-bakery.zappy5.app/accessibility" />
+  </url>
+  <url>
+    <loc>https://beit-bakery.zappy5.app/en/accessibility</loc>
+    <lastmod>2026-01-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://beit-bakery.zappy5.app/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://beit-bakery.zappy5.app/en/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beit-bakery.zappy5.app/accessibility" />
   </url>
 </urlset>

@@ -1,5 +1,5 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-01-19T21:36:24.011Z
+# Generated: 2026-01-19T22:19:01.706Z
 # These rewrite rules show clean URLs to users while serving .html files
 
 /story  /story.html  200!
@@ -8,6 +8,16 @@
 /privacy  /privacy.html  200!
 /accessibility  /accessibility.html  200!
 /terms  /terms.html  200!
+
+# Language slug rewrites for SEO
+/en  /en/index.html  200!
+/en/story  /en/story.html  200!
+/en/highlights  /en/highlights.html  200!
+/en/contact  /en/contact.html  200!
+/en/privacy  /en/privacy.html  200!
+/en/accessibility  /en/accessibility.html  200!
+/en/terms  /en/terms.html  200!
+/en  /en/index.html  200!
 
 # Legal pages - redirect old .html URLs to friendly URLs
 /privacy.html  /privacy  301
