@@ -1,5 +1,5 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-01-19T16:18:12.254Z
+# Generated: 2026-01-19T21:36:24.011Z
 # These rewrite rules show clean URLs to users while serving .html files
 
 /story  /story.html  200!
@@ -16,5 +16,6 @@
 
 /  /index.html  200!
 
-# 404 fallback
-/*  /index.html  404
+# SPA fallback - serve index.html for all unmatched routes
+# This enables client-side routing for /product/:slug, /checkout, etc.
+/*  /index.html  200
