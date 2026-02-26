@@ -1,6 +1,7 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-01-19T22:19:01.706Z
-# These rewrite rules show clean URLs to users while serving .html files
+# Generated: 2026-02-26T19:00:36.146Z
+# NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
+# This file is kept for reference only
 
 /story  /story.html  200!
 /highlights  /highlights.html  200!
@@ -8,6 +9,15 @@
 /privacy  /privacy.html  200!
 /accessibility  /accessibility.html  200!
 /terms  /terms.html  200!
+/products  /products.html  200!
+/cart  /cart.html  200!
+/checkout  /checkout.html  200!
+/login  /login.html  200!
+/account  /account.html  200!
+/order-success  /order-success.html  200!
+/return-policy  /return-policy.html  200!
+/products?category=8b96b05f-4405-4cce-ab1d-f0c50f22a4ed  /products-category-8b96b05f-4405-4cce-ab1d-f0c50f22a4ed.html  200!
+/products?category=34c10641-2321-4e66-8dc1-f1b73a489333  /products-category-34c10641-2321-4e66-8dc1-f1b73a489333.html  200!
 
 # Language slug rewrites for SEO
 /en  /en/index.html  200!
@@ -17,6 +27,15 @@
 /en/privacy  /en/privacy.html  200!
 /en/accessibility  /en/accessibility.html  200!
 /en/terms  /en/terms.html  200!
+/en/products  /en/products.html  200!
+/en/cart  /en/cart.html  200!
+/en/checkout  /en/checkout.html  200!
+/en/login  /en/login.html  200!
+/en/account  /en/account.html  200!
+/en/order-success  /en/order-success.html  200!
+/en/return-policy  /en/return-policy.html  200!
+/en/products?category=8b96b05f-4405-4cce-ab1d-f0c50f22a4ed  /en/products?category=8b96b05f-4405-4cce-ab1d-f0c50f22a4ed.html  200!
+/en/products?category=34c10641-2321-4e66-8dc1-f1b73a489333  /en/products?category=34c10641-2321-4e66-8dc1-f1b73a489333.html  200!
 /en  /en/index.html  200!
 
 # Legal pages - redirect old .html URLs to friendly URLs
@@ -26,6 +45,6 @@
 
 /  /index.html  200!
 
-# SPA fallback - serve index.html for all unmatched routes
-# This enables client-side routing for /product/:slug, /checkout, etc.
-/*  /index.html  200
+# Dynamic routes - serve dedicated HTML templates for dynamic paths
+/product/*  /product.html  200!
+/category/*  /category.html  200!

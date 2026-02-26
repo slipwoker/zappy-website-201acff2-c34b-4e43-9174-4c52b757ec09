@@ -1,6 +1,4 @@
-# מאפיית הבית — Generative Engine Optimization Map
-
-> A מזון ומאפים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -17,6 +15,44 @@ https://beit-bakery.zappy5.app/highlights
 
 ### Contact
 https://beit-bakery.zappy5.app/contact
+
+### Products
+https://beit-bakery.zappy5.app/products
+המוצרים שלנו - מאפיית הבית
+
+### Cart
+https://beit-bakery.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://beit-bakery.zappy5.app/checkout
+תשלום
+
+### Login
+https://beit-bakery.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://beit-bakery.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://beit-bakery.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://beit-bakery.zappy5.app/product/:slug
+פרטי המוצר - מאפיית הבית
+
+### מאפים מלוחים
+https://beit-bakery.zappy5.app/products?category=8b96b05f-4405-4cce-ab1d-f0c50f22a4ed
+
+### מאפים מתוקים
+https://beit-bakery.zappy5.app/products?category=34c10641-2321-4e66-8dc1-f1b73a489333
+
+### Category
+https://beit-bakery.zappy5.app/category/:slug
+מוצרים - מאפיית הבית
 
 ## Legal & Policy
 
@@ -36,15 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About מאפיית הבית
-מאפיית הבית is a business in the מזון ומאפים industry.
-
-## Target Audience
-ירושלמים, תיירים, חובבי מאפים
-
-## Industry
-מזון ומאפים
-
+## About Business
 ---
 
 # Additional Resources
